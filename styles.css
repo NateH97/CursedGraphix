@@ -15,12 +15,10 @@ nav a {
   border-radius: 50px;
   padding: 5px 10px;
 }
-
 nav a:hover {
   color: white;
   text-decoration: underline;
 }
-
 #top-two {
   display: flex;
   flex-direction: row;
@@ -33,7 +31,6 @@ nav a:hover {
 figcaption {
   color: white;
 }
-
 #editing {
   display: flex;
   flex-direction: row;
